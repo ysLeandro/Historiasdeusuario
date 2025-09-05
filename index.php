@@ -251,6 +251,57 @@
                     </div>
                 </div>
 
+                <!-- Terceras 5 historias: Roberto Benitez -->
+                <div class="card card-user-story" style="background-color: lightblue;">
+                    <div class="card-header">Roberto Benitez</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> tener un chat seguro dentro de la app,</p>
+                        <p><span class="keyword">Para</span> no depender de contactos externos para comunicarme.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Roberto Benitez</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> ver las calificaciones de los vendedores,</p>
+                        <p><span class="keyword">Para</span> confiar en la persona a la que le compraré.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Roberto Benitez</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> vendedor,</p>
+                        <p><span class="keyword">Quiero</span> recibir valoraciones de mis ventas,</p>
+                        <p><span class="keyword">Para</span> generar reputación dentro de la plataforma.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Roberto Benitez</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> administrador,</p>
+                        <p><span class="keyword">Quiero</span> bloquear usuarios que incumplan las normas,</p>
+                        <p><span class="keyword">Para</span> mantener un ambiente seguro en la aplicación.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Roberto Benitez</div>
+                    <div class="card-body">
+                                <p><span class="keyword">Como</span> usuario,</p>
+                                <p><span class="keyword">Quiero</span> restablecer mi contraseña por correo,</p>
+                                <p><span class="keyword">Para</span> recuperar mi acceso en caso de olvido.</p>
+
+                    </div>
+                </div>
+
             </div>
         `;
 
