@@ -251,7 +251,7 @@
                     </div>
                 </div>
 
-                <!-- Terceras 5 historias: Roberto Benitez -->
+                <!--  5 historias: Roberto Benitez -->
                 <div class="card card-user-story" style="background-color: lightblue;">
                     <div class="card-header">Roberto Benitez</div>
                     <div class="card-body">
@@ -302,6 +302,58 @@
                     </div>
                 </div>
 
+                <!-- 5 historias: Saleth Sayenka -->
+                <div class="card card-user-story" style="background-color: lightblue;">
+                    <div class="card-header">Saleth Sayenka</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> ver productos recientes en la pantalla principal,</p>
+                        <p><span class="keyword">Para</span> descubrir rápidamente lo más nuevo en venta.</p>
+
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Saleth Sayenka</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> vendedor,</p>
+                        <p><span class="keyword">Quiero</span> recibir notificaciones cuando alguien esté interesado en mi producto,</p>
+                        <p><span class="keyword">Para</span> responder y concretar la venta rápidamente.</p>
+
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Saleth Sayenka</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> hacer preguntas públicas en la publicación de un artículo,</p>
+                        <p><span class="keyword">Para</span> aclarar dudas que otros también puedan tener.</p>
+
+                    </div>
+                </div>
+                
+                <div class="card card-user-story">
+                    <div class="card-header">Saleth Sayenka</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> ver estadísticas de mis compras y ventas,</p>
+                        <p><span class="keyword">Para</span> conocer mi actividad dentro de la app.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Saleth Sayenka</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> administrador,</p>
+                        <p><span class="keyword">Quiero</span> generar reportes de actividad de usuarios,</p>
+                        <p><span class="keyword">Para</span> analizar el uso de la aplicación.</p>
+
+                    </div>
+                </div>
             </div>
         `;
 
