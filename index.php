@@ -334,7 +334,7 @@
 
                     </div>
                 </div>
-                
+
                 <div class="card card-user-story">
                     <div class="card-header">Saleth Sayenka</div>
                     <div class="card-body">
@@ -352,6 +352,54 @@
                         <p><span class="keyword">Quiero</span> generar reportes de actividad de usuarios,</p>
                         <p><span class="keyword">Para</span> analizar el uso de la aplicación.</p>
 
+                    </div>
+                </div>
+
+                <!-- 5 historias: Fiama Hurtado -->
+
+                <div class="card card-user-story" style="background-color: lightblue;">
+                    <div class="card-header">Fiama Hurtado</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> vendedor,</p>
+                        <p><span class="keyword">Quiero</span> subir múltiples fotos por producto,</p>
+                        <p><span class="keyword">Para</span> mostrar diferentes ángulos y detalles.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Fiama Hurtado</div>
+                    <div class="card-body">
+                                <p><span class="keyword">Como</span> usuario,</p>
+                                <p><span class="keyword">Quiero</span> recibir alertas cuando un producto que busco esté disponible,</p>
+                                <p><span class="keyword">Para</span> aprovechar la oportunidad de comprarlo rápidamente.</p>
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Fiama Hurtado</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> poder calificar un producto después de recibirlo,</p>
+                        <p><span class="keyword">Para</span> compartir mi experiencia con otros usuarios.</p>
+
+                    </div>
+                </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Fiama Hurtado</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> activar un modo oscuro en la aplicación,</p>
+                        <p><span class="keyword">Para</span> usar la app de forma cómoda en la noche.</p>
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Fiama Hurtado</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> ver métodos de pago aceptados antes de concretar la compra,</p>
+                        <p><span class="keyword">Para</span> saber cómo puedo pagar el artículo.</p>
                     </div>
                 </div>
             </div>
