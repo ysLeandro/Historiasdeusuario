@@ -199,6 +199,58 @@
                         <p><span class="keyword">Para</span> procesar transacciones de manera confiable.</p>
                     </div>
                 </div>
+
+                <!-- Segundas 5 historias: Josselyn Burbano -->
+
+                <div class="card card-user-story" style="background-color: lightblue;">
+                    <div class="card-header">Josselyn Burbano</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> vendedor,</p>
+                        <p><span class="keyword">Quiero</span> editar la descripción de mi producto,</p>
+                        <p><span class="keyword">Para</span> corregir errores o añadir más detalles.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Josselyn Burbano</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> guardar artículos en una lista de favoritos,</p>
+                        <p><span class="keyword">Para</span> poder revisarlos más tarde antes de comprar.</p>
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Josselyn Burbano</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> usuario,</p>
+                        <p><span class="keyword">Quiero</span> recibir notificaciones cuando alguien me escribe,</p>
+                        <p><span class="keyword">Para</span> responder rápidamente a posibles compradores o vendedores.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Josselyn Burbano</div>
+                    <div class="card-body">
+                                <p><span class="keyword">Como</span> vendedor,</p>
+                                <p><span class="keyword">Quiero</span> marcar un artículo como vendido,</p>
+                                <p><span class="keyword">Para</span> que no siga apareciendo como disponible.</p>
+
+                    </div>
+                </div>
+
+                <div class="card card-user-story">
+                    <div class="card-header">Josselyn Burbano</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> comprador,</p>
+                        <p><span class="keyword">Quiero</span> ver la ubicación dentro del plantel para la entrega,</p>
+                        <p><span class="keyword">Para</span> saber dónde puedo recoger el producto fácilmente.</p>
+
+                    </div>
+                </div>
+
             </div>
         `;
 
